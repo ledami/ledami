@@ -1,5 +1,5 @@
 <h1 align="center">Ing. Leidy Daniela Mina Palacios</h1>
-<h3 align="center">Desarrolladora de Software: Fullstack en progreso</h3>
+<h3 align="center">Desarrolladora de Software</h3>
 
 
 <h2 align="center">Habilidades</h2>
