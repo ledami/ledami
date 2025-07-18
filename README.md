@@ -5,7 +5,7 @@
 ¡Hola! Soy Ledami, una desarrolladora apasionada por la tecnología y la innovación. Me especializo en el desarrollo de aplicaciones móviles y web, con experiencia en Android (Java, Kotlin y Flutter). Me enfoco en crear soluciones eficientes, adaptables y de alta calidad. También tengo habilidades en gestión de proyectos y liderazgo de equipos, asegurando que cada iniciativa cumpla sus objetivos con éxito.
 
 ## Proyectos Terminados
-A continuación, te presento algunos de mis proyectos más destacados:
+A continuación, te presento algunos de mis proyectos:
 
 ### 1. Sistema de Análisis de Consumo Eléctrico con AMI
 Desarrollo de una herramienta web para analizar datos provenientes de la Infraestructura de Medición Avanzada (AMI), utilizando técnicas de Inteligencia de Negocios (BI) y Minería de Datos (DM), con el fin de optimizar la gestión energética y facilitar la toma de decisiones a partir del comportamiento de consumo eléctrico.
@@ -13,6 +13,14 @@ Desarrollo de una herramienta web para analizar datos provenientes de la Infraes
 - **Software:** WAMP, Pentaho Data Integration (PDI), Overleaf
 - **Periodo de desarrollo:** Noviembre de 2017 - Abril de 2019
 - **Repositorio:** [Enlace al repositorio](https://github.com/ledami/AMI)
+
+### 2. Temporizador Pomodoro para Productividad Personal
+Desarrollo de una aplicación móvil Android basada en la técnica Pomodoro, que permite a los usuarios gestionar su tiempo mediante ciclos personalizados de trabajo y descanso. La app mejora la productividad personal al incorporar funcionalidades como historial de sesiones, modo sin distracciones y configuración de tiempos personalizados. Se diseñó con arquitectura MVVM y enfoque modular para escalabilidad futura.
+
+- **Tecnologías:** Kotlin, XML, Room, LiveData, ViewModel, CountDownTimer, Android Jetpack
+- **Software:** Android Studio, GitHub, Figma
+- *Periodo de desarrollo:** Abril de 2024 - Junio de 2024
+- **Repositorio:** [Enlace al repositorio](https://github.com/ledami/PomoTime)
 
 ## Contacto
 - **GitHub:** [ledami](https://github.com/ledami)
