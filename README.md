@@ -2,7 +2,7 @@
 ### Ingeniera de Sistemas
 
 ## Sobre mí
-¡Hola! Soy Ledami, una desarrolladora apasionada por la tecnología y la innovación. Me especializo en el desarrollo de aplicaciones móviles y web, con experiencia en Android (Java, Kotlin y Flutter). Me enfoco en crear soluciones eficientes, adaptables y de alta calidad. También tengo habilidades en gestión de proyectos y liderazgo de equipos, asegurando que cada iniciativa cumpla sus objetivos con éxito.
+¡Hola! Soy una desarrolladora apasionada por la tecnología y la innovación. Me especializo en el desarrollo de aplicaciones móviles y web, con experiencia en Android (Java, Kotlin y Flutter). Me enfoco en crear soluciones eficientes, adaptables y de alta calidad. También tengo habilidades en gestión de proyectos y liderazgo de equipos, asegurando que cada iniciativa cumpla sus objetivos con éxito.
 
 ## Proyectos Terminados
 A continuación, te presento algunos de mis proyectos:
