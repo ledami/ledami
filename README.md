@@ -14,7 +14,15 @@ Desarrollo de una herramienta web para analizar datos provenientes de la Infraes
 - **Periodo de desarrollo:** Noviembre de 2017 - Abril de 2019
 - **Repositorio:** [Enlace al repositorio](https://github.com/ledami/AMI)
 
-### 2. Temporizador Pomodoro para Productividad Personal
+### 2. Bybel – Aplicación de Herramientas Bíblicas
+Desarrollo de una aplicación móvil Android centrada en el estudio y consulta de recursos bíblicos, diseñada para ofrecer a los usuarios una experiencia completa e intuitiva. Incluye funcionalidades como lectura de la Biblia, himnario, diccionario bíblico, comentario bíblico y herramientas adicionales de utilidad espiritual. 
+
+- **Tecnologías:** Java, XML, SQLite (migrando a Room), CameraX, ML Kit Barcode Scanning, Android Jetpack
+- **Software:** Android Studio, GitHub, Figma, Firebase
+- **Periodo de desarrollo:** Inicialmente en 2021 – Reestructuración desde julio de 2024
+- **Repositorio:** [Enlace al repositorio](https://github.com/ledami/Bybel)
+  
+### 3. PomoTime - Temporizador Pomodoro para Productividad Personal
 Desarrollo de una aplicación móvil Android basada en la técnica Pomodoro, que permite a los usuarios gestionar su tiempo mediante ciclos personalizados de trabajo y descanso. La app mejora la productividad personal al incorporar funcionalidades como historial de sesiones, modo sin distracciones y configuración de tiempos personalizados. Se diseñó con arquitectura MVVM y enfoque modular para escalabilidad futura.
 
 - **Tecnologías:** Kotlin, XML, Room, LiveData, ViewModel, CountDownTimer, Android Jetpack
